@@ -7,7 +7,7 @@ Hi there 👋 My name is Cristian and I'm a data scientist and I love teaching o
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with learning how to optimize `R` code
 - 💬 Ask me about the Chicago Data Portal
-- 📫 How to reach me: https://twitter.com/cenuno_
+- 📫 How to reach me: [https://twitter.com/cenuno_](https://twitter.com/cenuno_)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love using `git`! The best presentation about learning `git` on a conceptual level can be [found here](https://speakerdeck.com/alicebartlett/git-for-humans) (courtesy of Alice Bartlett).
 
