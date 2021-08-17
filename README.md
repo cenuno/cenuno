@@ -5,7 +5,7 @@ Hi there 👋 My name is Cristian and I'm a software engineer and I love teachin
 - 🔭 I’m currently working on helping a school system automate a lot of manual processes to ensure data across their systems is always up to date
 - 🌱 I’m currently learning about math and statistics
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with learning how to optimize `R` code
+- 🤔 I’m looking for help with learning how to optimize JavaScript code 
 - 💬 Ask me about why I think everyone should create and store their own `.log` files
 - 📫 How to reach me: [https://twitter.com/cenuno_](https://twitter.com/cenuno_)
 - 😄 Pronouns: He/him
