@@ -1,12 +1,12 @@
 # Cristian E. Nuno
 
-Hi there 👋 My name is Cristian and I'm a data scientist and I love teaching others how to answer the questions that matter to them using public data. Here is a bit more about me:
+Hi there 👋 My name is Cristian and I'm a software engineer and I love teaching others how to answer the questions that matter to them using public data. Here is a bit more about me:
 
-- 🔭 I’m currently working on answering business questions with Presto SQL queries
+- 🔭 I’m currently working on helping a school system automate a lot of manual processes to ensure data across their systems is always up to date
 - 🌱 I’m currently learning about math and statistics
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with learning how to optimize `R` code
-- 💬 Ask me about the Chicago Data Portal
+- 💬 Ask me about why I think everyone should create and store their own `.log` files
 - 📫 How to reach me: [https://twitter.com/cenuno_](https://twitter.com/cenuno_)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love using `git`! The best presentation about learning `git` on a conceptual level can be [found here](https://speakerdeck.com/alicebartlett/git-for-humans) (courtesy of Alice Bartlett).
