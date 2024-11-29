@@ -6,7 +6,6 @@ Hi there 👋 My name is Cristian and I'm a software engineer and I love teachin
 - 🌱 I’m currently learning about math and Java
 - 🤔 I’m looking for help with learning how to optimize JavaScript code 
 - 💬 Ask me about why I think everyone should create and store their own `.log` files
-- 📫 How to reach me: [https://twitter.com/cenuno_](https://twitter.com/cenuno_)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love using `git`! The best presentation about learning `git` on a conceptual level can be [found here](https://speakerdeck.com/alicebartlett/git-for-humans) (courtesy of Alice Bartlett).
 
